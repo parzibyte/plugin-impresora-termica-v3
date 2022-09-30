@@ -1,0 +1,1 @@
+# plugin-impresora-termica-v3
